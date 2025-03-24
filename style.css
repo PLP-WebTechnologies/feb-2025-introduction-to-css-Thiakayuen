@@ -1,0 +1,60 @@
+
+
+
+body {
+    background-color: gray;
+    padding: 20px
+}
+
+.nav {
+    background-color: brown;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    justify-content: center; 
+    gap: 20px; 
+    padding: 10px;
+}
+
+.nav a {
+    text-decoration: none;
+    color: white;
+    font-size: 16px;
+    font-family: sans-serif;
+}
+#contact-me {
+    font-weight: bold;
+    color: darkblue;
+}
+
+.contact-me {
+    text-align: center;
+
+}
+
+.sect {
+    padding: 20px;
+    color: white;
+}
+
+contact-us, foot {
+    color: white;
+    font-size: 20px;
+}
+
+img {
+    border: 3px solid black; 
+    border-radius: 10px;
+    display: block;
+    margin: auto;
+    background-color: yellow;
+    padding: 10px;
+}
+
+footer {
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    text-align: center;
+    color: white;
+}

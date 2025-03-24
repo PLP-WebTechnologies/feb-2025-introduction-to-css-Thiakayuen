@@ -6,7 +6,6 @@ Apply basic styling using selectors.
 Use colors, fonts, and spacing effectively.
 
 ## Instructions
-
 Create a style.css file.
 Apply CSS to a HTML page.
 Style elements using:
